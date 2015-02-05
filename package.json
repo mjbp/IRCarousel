@@ -1,7 +1,7 @@
 {
 	"name": "IRCarousel",
 	"author": "mjbp",
-	"description": "jQuery plugin Infinite Reposnive Carousel",
+	"description": "jQuery plugin Infinite Responsive Carousel",
 	"version": "0.2.0",
 	"repository": {
 		"type" : "git",
