@@ -1,0 +1,24 @@
+{
+	"name": "IRCarousel",
+	"author": "mjbp",
+	"description": "jQuery plugin Infinite Reposnive Carousel",
+	"version": "0.2.0",
+	"repository": {
+		"type" : "git",
+		"url" :"https://github.com/mjbp/responsiveLoader/"
+	},
+	"devDependencies": {
+		"gulp": "^3.8.8",
+		"gulp-rename": "^1.2.0",
+		"gulp-uglify": "^1.0.2",
+		"gulp-header": "^1.2.2",
+		"gulp-gh-pages": "^0.4.0"
+	},
+	"jshintConfig" : {
+		"-W084" : true,
+		"predef": ["document", "define", "module"]
+	},
+	"scripts": {
+		"start": "gulp dev"
+	}
+}
